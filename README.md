@@ -10,5 +10,4 @@
 - Slider
 - React Native
 - Styled Components
-- Gesture Handler
 - Typescript
