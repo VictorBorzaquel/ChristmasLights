@@ -1,4 +1,3 @@
-import Slider from '@react-native-community/slider';
 import React, { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { Circle, TColor } from '../../components/Circle';

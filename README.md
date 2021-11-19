@@ -1,12 +1,13 @@
-# Calculator
+# Christmas Lights
 
 ## React Native App
 
-<img src="./images/Calculator.gif" width="400" />
+<img src="./github/ChristmasLights.gif" width="400" />
 
 ## Tecnologias
 
-- I18n js
+- Reanimated
+- Slider
 - React Native
 - Styled Components
 - Gesture Handler
